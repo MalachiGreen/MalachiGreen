@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @MalachiGreen
-- 👀 I’m interested in **computer science**, particularly **programming**, **coding** and **hacking**
-- 🌱 I’m currently learning Python and AI Based Programming 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me => **greenmalachi76@gmail.com**
-- 😄 Pronouns: He
-- ⚡ Fun fact: The term *bug* was originally created when an **actual bug** entered a computer.
+# Hi, I'm Malachi 👋
+
+Python developer building utility and security-focused applications. Currently expanding my portfolio and open to freelance work.
+
+## 🚀 Current Focus
+- 🔭 Working on my portfolio
+- 🐍 Currently programming in Python
+- 🤖 Experimenting with AI/ML
+- 💼 Open to freelance work
+
+## 🧠 Interests
+- Artificial Intelligence
+- Cybersecurity / Red Teaming
+
+## 📫 Connect With Me
+- LinkedIn: [Malachi Green](https://www.linkedin.com/in/malachi-green-baaba43b6)
+- WhatsApp: Available on request for freelance inquiries
+- Email: greenmalachi76@gmail.com
+
+## 🐛 Fun Fact
+The term *bug* is famously tied to an **actual bug**—a moth found in the Harvard Mark II computer in 1947. Engineers had used “bug” for defects even earlier, but that moth made the story legendary. Peak, isn't it?
 
 <!---
-MalachiGreen/MalachiGreen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MalachiGreen/MalachiGreen is a ✨ special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

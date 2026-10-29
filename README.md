@@ -13,7 +13,7 @@ Python developer building utility and security-focused applications. Currently e
 
 ## 📫 Connect With Me
 - LinkedIn: [Malachi Green](https://www.linkedin.com/in/malachi-green-baaba43b6)
-- WhatsApp: Available on request for freelance inquiries
+- WhatsApp: Available on request for special inquiries
 - Email: greenmalachi76@gmail.com
 
 ## 🐛 Fun Fact

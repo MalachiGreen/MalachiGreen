@@ -1,12 +1,11 @@
 # Hi, I'm Malachi 👋
 
-Python developer building utility and security-focused applications. Currently expanding my portfolio and open to freelance work.
+Python developer building utility and security-focused applications. Currently expanding my portfolio.
 
 ## 🚀 Current Focus
 - 🔭 Working on my portfolio
 - 🐍 Currently programming in Python
 - 🤖 Experimenting with AI/ML
-- 💼 Open to freelance work
 
 ## 🧠 Interests
 - Artificial Intelligence
